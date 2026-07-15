@@ -8,7 +8,8 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 - Titanic Dataset (`train.csv`)
 - Source: Kaggle Titanic Dataset
-
+- **Download Link:** https://www.kaggle.com/c/titanic/data
+- 
 ## 🛠️ Technologies Used
 
 - Python
